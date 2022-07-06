@@ -1,4 +1,3 @@
-@@ -0,0 +1,26 @@
 #include "main.h"
 
 /**
@@ -25,4 +24,3 @@ void print_alphabet_x10(void)
 		round++;
 	}
 }
-
